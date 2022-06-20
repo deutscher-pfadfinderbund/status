@@ -6,7 +6,7 @@ sites:
     url: https://deutscher-pfadfinderbund.de
   - name: Auth
     url: https://auth.deutscher-pfadfinderbund.de
-  - name: Hacker News
+  - name: Nextcloud
     url: https://cloud.deutscher-pfadfinderbund.de
 
 status-website:
