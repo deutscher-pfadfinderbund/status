@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 1128,
-    "timeWeek": 1012,
-    "timeMonth": 1021,
-    "timeYear": 986,
+    "time": 982,
+    "timeDay": 842,
+    "timeWeek": 964,
+    "timeMonth": 1026,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/auth.deutscher-pfadfinderbund.de",
     "slug": "auth",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 841,
-    "timeDay": 989,
-    "timeWeek": 952,
-    "timeMonth": 852,
-    "timeYear": 841,
+    "uptimeYear": "99.39%",
+    "time": 835,
+    "timeDay": 595,
+    "timeWeek": 925,
+    "timeMonth": 851,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2022-06-20": 285
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1548,
-    "timeWeek": 1932,
-    "timeMonth": 1499,
-    "timeYear": 1484,
+    "time": 1490,
+    "timeDay": 1688,
+    "timeWeek": 1913,
+    "timeMonth": 1517,
+    "timeYear": 1490,
     "dailyMinutesDown": {}
   }
 ]
