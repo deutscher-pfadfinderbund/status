@@ -42,19 +42,19 @@
     "url": "https://cloud.deutscher-pfadfinderbund.de",
     "icon": "https://favicons.githubusercontent.com/cloud.deutscher-pfadfinderbund.de",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1491,
-    "timeDay": 1798,
-    "timeWeek": 1347,
-    "timeMonth": 1595,
-    "timeYear": 1491,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1484,
+    "timeDay": 1558,
+    "timeWeek": 1317,
+    "timeMonth": 1579,
+    "timeYear": 1484,
     "dailyMinutesDown": {
-      "2022-08-15": 0
+      "2022-08-15": 31
     }
   }
 ]
