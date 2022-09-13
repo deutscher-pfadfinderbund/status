@@ -4,18 +4,20 @@
     "url": "https://deutscher-pfadfinderbund.de",
     "icon": "https://favicons.githubusercontent.com/deutscher-pfadfinderbund.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 1114,
-    "timeWeek": 790,
-    "timeMonth": 1003,
-    "timeYear": 986,
-    "dailyMinutesDown": {}
+    "time": 1093,
+    "timeDay": 5933,
+    "timeWeek": 2035,
+    "timeMonth": 1308,
+    "timeYear": 1093,
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "Auth",
