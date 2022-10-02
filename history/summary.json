@@ -2,7 +2,7 @@
   {
     "name": "Website",
     "url": "https://deutscher-pfadfinderbund.de",
-    "icon": "https://favicons.githubusercontent.com/deutscher-pfadfinderbund.de",
+    "icon": "https://icons.duckduckgo.com/ip3/deutscher-pfadfinderbund.de.ico",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1060,
-    "timeDay": 896,
-    "timeWeek": 865,
-    "timeMonth": 1174,
+    "timeDay": 1128,
+    "timeWeek": 900,
+    "timeMonth": 1188,
     "timeYear": 1060,
     "dailyMinutesDown": {}
   },
   {
     "name": "Auth",
     "url": "https://auth.deutscher-pfadfinderbund.de",
-    "icon": "https://favicons.githubusercontent.com/auth.deutscher-pfadfinderbund.de",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.deutscher-pfadfinderbund.de.ico",
     "slug": "auth",
     "status": "up",
     "uptime": "99.81%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 839,
-    "timeDay": 700,
-    "timeWeek": 806,
-    "timeMonth": 791,
-    "timeYear": 839,
+    "time": 840,
+    "timeDay": 985,
+    "timeWeek": 802,
+    "timeMonth": 798,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2022-06-20": 285
     }
@@ -40,7 +40,7 @@
   {
     "name": "Nextcloud",
     "url": "https://cloud.deutscher-pfadfinderbund.de",
-    "icon": "https://favicons.githubusercontent.com/cloud.deutscher-pfadfinderbund.de",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.deutscher-pfadfinderbund.de.ico",
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.98%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1412,
-    "timeDay": 1598,
-    "timeWeek": 1335,
-    "timeMonth": 1361,
-    "timeYear": 1412,
+    "time": 1413,
+    "timeDay": 1491,
+    "timeWeek": 1351,
+    "timeMonth": 1377,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2022-08-15": 31
     }
