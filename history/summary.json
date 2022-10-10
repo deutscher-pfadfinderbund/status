@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1050,
-    "timeDay": 972,
-    "timeWeek": 906,
-    "timeMonth": 1198,
+    "timeDay": 1121,
+    "timeWeek": 964,
+    "timeMonth": 1205,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2022-10-07": 27
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.deutscher-pfadfinderbund.de.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.80%",
-    "time": 841,
-    "timeDay": 768,
-    "timeWeek": 847,
-    "timeMonth": 827,
-    "timeYear": 841,
+    "uptimeYear": "99.81%",
+    "time": 840,
+    "timeDay": 790,
+    "timeWeek": 871,
+    "timeMonth": 828,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2022-10-07": 26,
       "2022-06-20": 285
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1407,
-    "timeDay": 1321,
-    "timeWeek": 1319,
-    "timeMonth": 1416,
-    "timeYear": 1407,
+    "time": 1410,
+    "timeDay": 1714,
+    "timeWeek": 1417,
+    "timeMonth": 1433,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2022-08-15": 31
     }
