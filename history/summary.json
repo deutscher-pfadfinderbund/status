@@ -47,18 +47,19 @@
     "url": "https://cloud.deutscher-pfadfinderbund.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.deutscher-pfadfinderbund.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1408,
-    "timeDay": 1308,
-    "timeWeek": 1583,
-    "timeMonth": 1408,
-    "timeYear": 1408,
+    "time": 1410,
+    "timeDay": 1458,
+    "timeWeek": 1586,
+    "timeMonth": 1414,
+    "timeYear": 1410,
     "dailyMinutesDown": {
+      "2022-11-29": 0,
       "2022-08-15": 31
     }
   }
