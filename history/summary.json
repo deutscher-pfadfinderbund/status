@@ -4,10 +4,10 @@
     "url": "https://deutscher-pfadfinderbund.de",
     "icon": "https://icons.duckduckgo.com/ip3/deutscher-pfadfinderbund.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1044,
@@ -16,6 +16,7 @@
     "timeMonth": 1111,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-13": 27,
       "2022-10-30": 150,
       "2022-10-07": 27
@@ -26,11 +27,11 @@
     "url": "https://auth.deutscher-pfadfinderbund.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.deutscher-pfadfinderbund.de.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 925,
     "timeDay": 1475,
@@ -38,7 +39,7 @@
     "timeMonth": 1161,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
+      "2023-01-25": 1,
       "2022-10-07": 26,
       "2022-06-20": 285
     }
@@ -48,9 +49,9 @@
     "url": "https://cloud.deutscher-pfadfinderbund.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.deutscher-pfadfinderbund.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -60,6 +61,7 @@
     "timeMonth": 1583,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-29": 22,
       "2022-08-15": 31
     }
