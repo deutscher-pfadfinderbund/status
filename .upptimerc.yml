@@ -8,6 +8,8 @@ sites:
     url: https://auth.deutscher-pfadfinderbund.de
   - name: Nextcloud
     url: https://cloud.deutscher-pfadfinderbund.de
+  - name: Mailingliste
+    url: https://mailinglist.deutscher-pfadfinderbund.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
