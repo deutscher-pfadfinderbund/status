@@ -1,7 +1,7 @@
 url: https://mailinglist.deutscher-pfadfinderbund.de
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2023-11-09T16:50:37.771Z
+status: down
+code: 502
+responseTime: 19091
+lastUpdated: 2023-11-09T16:59:38.819Z
 startTime: Fri Oct 27 2023 14:42:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
